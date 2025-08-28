@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**angelitogar/angelitogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ángel, a Computer Science student at **UNAM**.  
+Currently learning:
+- ☕ Java  
+- 🗄️ SQL  
+- 🌐 Web basics (HTML, CSS, JavaScript)
 
-Here are some ideas to get you started:
+💡 I’m eager to **collaborate on projects** to learn and grow together.  
+I can help with:
+- 📐 Light math problems  
+- 💻 Beginner-level programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- Instagram: [@angelito.garr](https://instagram.com/angelito.garr)  
+
+### 🎨 Fun facts about me
+I love ⚽ soccer, 🏈 football, and art — especially films, music, and literature.  
+In general, I enjoy learning and exploring life. 🌱
